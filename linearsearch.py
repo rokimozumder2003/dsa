@@ -5,7 +5,7 @@ def linearSearch(arr, targetVal):
     return -1
 
 arr = [3, 7, 2, 9, 5]
-targetVal = 9
+targetVal = 5
 
 result = linearSearch(arr, targetVal)
 
