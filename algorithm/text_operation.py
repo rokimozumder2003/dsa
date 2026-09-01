@@ -17,7 +17,7 @@ import pytest
 # Custom/local libraries
 from matrix import matrix_operation as matop
 
-mat_a = [[12, 10], [3, 9]]
+mat_a = [[12, 11], [3, 9]]
 mat_b = [[3, 4], [7, 4]]
 mat_c = [[3, 0, 2], [2, 0, -2], [0, 1, 1]]
 mat_d = [[3, 0, -2], [2, 0, 2], [0, 1, 1]]
